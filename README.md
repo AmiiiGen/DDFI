@@ -1,2 +1,2 @@
 # DDFI
-The data-driven fault isolation for linear time-invariant systems
+Data-Driven Fault Isolation in Linear Time-Invariant Systems: A Subspace Classification Approach
